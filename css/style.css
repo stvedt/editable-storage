@@ -2,6 +2,10 @@ body{
     font-family:Helvetica;
     font-size:16px;
 }
+#container{
+    width:300px;
+}
+
 ul{
     margin:0;
     padding:0;

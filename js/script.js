@@ -3,7 +3,6 @@ $(document).ready(function(){
 		
 		$('#save').click( function(){
 			localStorage.setItem('list', $ul.html());
-			console.log(localStorage.getItem('list'));
 		});
 		
 		$('#clear').click( function(){
